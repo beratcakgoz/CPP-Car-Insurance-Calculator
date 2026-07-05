@@ -1,4 +1,4 @@
-# Car Insurance Premium Calculator
+# Car Insurance Calculator
 
 ## Overview
 This is an object-oriented C++ console application designed to calculate annual insurance premiums for different types of vehicles. It uses inheritance and polymorphism to handle specific calculations for Personal, Company, and Fleet cars.
